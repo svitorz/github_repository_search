@@ -19,7 +19,7 @@ Este projeto permite que os usuários busquem repositórios públicos do GitHub 
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/svitorz/github_repository_search
    ```
 
 2. **Instale as dependências**:
@@ -35,7 +35,7 @@ Este projeto permite que os usuários busquem repositórios públicos do GitHub 
    ```
 
 4. **Acesse a aplicação**:
-   Abra seu navegador e acesse [http://localhost:3000](http://localhost:3000) para visualizar a aplicação em funcionamento.
+   Abra seu navegador e acesse [http://localhost:5173](http://localhost:3000) para visualizar a aplicação em funcionamento.
 
 ## Como Usar
 
